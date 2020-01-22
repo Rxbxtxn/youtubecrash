@@ -1,4 +1,3 @@
-# youtubecrash
 # Usage
 ## python youtube.py [visits] [youtubeLinks.txt] [minWatch] [maxWatch]
 
